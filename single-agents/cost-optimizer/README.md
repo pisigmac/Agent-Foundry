@@ -38,4 +38,4 @@ streamlit run cost_optimizer.py
 
 ## License
 
-Apache-2.0
+MIT

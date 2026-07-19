@@ -24,4 +24,4 @@ Set your API keys in environment variables or a `.env` file before running.
 
 ## License
 
-Apache-2.0
+MIT

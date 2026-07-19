@@ -35,4 +35,4 @@ streamlit run content_moderation_agent.py
 
 ## License
 
-Apache-2.0
+MIT

@@ -48,4 +48,4 @@ streamlit run incident_response_coordinator.py
 
 ## License
 
-Apache-2.0
+MIT

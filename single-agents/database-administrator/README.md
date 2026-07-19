@@ -32,4 +32,4 @@ streamlit run database_administrator.py
 
 ## License
 
-Apache-2.0
+MIT

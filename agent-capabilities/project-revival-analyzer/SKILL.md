@@ -9,7 +9,7 @@ description: >-
   finish", wants to revive or resurrect a project, says "run the graveyard",
   wonders why they never finish anything, or is about to start a new project
   that sounds like one they already built. Runs entirely locally.
-license: Apache-2.0
+license: MIT
 metadata:
   author: ""
   version: "1.0.0"

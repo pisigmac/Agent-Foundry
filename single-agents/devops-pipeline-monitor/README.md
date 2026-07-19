@@ -36,4 +36,4 @@ streamlit run devops_pipeline_monitor.py
 
 ## License
 
-Apache-2.0
+MIT

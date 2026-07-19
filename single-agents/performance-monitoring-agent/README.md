@@ -38,4 +38,4 @@ streamlit run performance_monitoring_agent.py
 
 ## License
 
-Apache-2.0
+MIT

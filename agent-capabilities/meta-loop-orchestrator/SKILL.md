@@ -7,7 +7,7 @@ description: >-
   model team, run an advisor-worker loop, have a stronger model review the
   plan while cheap workers execute, or says "too big for one model" or "fan
   this out". Not for single-file edits or tasks one model handles in one pass.
-license: Apache-2.0
+license: MIT
 metadata:
   author: ""
   version: "1.0.0"

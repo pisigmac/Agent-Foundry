@@ -32,4 +32,4 @@ streamlit run log_anomaly_detector.py
 
 ## License
 
-Apache-2.0
+MIT

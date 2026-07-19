@@ -30,4 +30,4 @@ streamlit run code_review_assistant.py
 
 ## License
 
-Apache-2.0
+MIT

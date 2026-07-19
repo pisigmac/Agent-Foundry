@@ -34,4 +34,4 @@ streamlit run data_quality_validator.py
 
 ## License
 
-Apache-2.0
+MIT

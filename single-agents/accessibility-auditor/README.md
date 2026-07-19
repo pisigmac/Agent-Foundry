@@ -33,4 +33,4 @@ streamlit run accessibility_auditor.py
 
 ## License
 
-Apache-2.0
+MIT
