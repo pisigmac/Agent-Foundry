@@ -1,0 +1,6 @@
+ollama
+pandas
+langchain-core
+langchain
+langchain-ollama
+streamlit

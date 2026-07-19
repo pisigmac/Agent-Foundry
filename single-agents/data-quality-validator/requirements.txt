@@ -1,0 +1,7 @@
+streamlit
+agno>=2.2.10
+openai
+pandas
+numpy
+python-dotenv
+openpyxl

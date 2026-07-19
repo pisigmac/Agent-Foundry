@@ -1,0 +1,236 @@
+docstring-parser>=0.16
+#   pip-tools
+#   groq
+# via rich
+python-dotenv==1.0.1
+#   altair
+# via
+anyio>=4.8.0
+#   -r cookbook/examples/apps/tic_tac_toe/requirements.in
+# via streamlit
+groq>=0.18.0
+#   streamlit
+# via streamlit
+# via requests
+httpx==0.28.1
+# via httpx
+# via pip-tools
+charset-normalizer==3.4.1
+# via streamlit
+# via pandas
+#   streamlit
+#   pydeck
+tomli==2.2.1
+# via pip-tools
+# via -r cookbook/examples/apps/tic_tac_toe/requirements.in
+# via -r cookbook/examples/apps/tic_tac_toe/requirements.in
+sniffio>=1.3.1
+# via python-dateutil
+pyproject-hooks>=1.2.0
+#   anthropic
+#   google-genai
+# via pandas
+markdown-it-py==3.0.0
+pip==25.0.1
+# via openai
+#   anthropic
+#   jsonschema
+#   jsonschema
+pandas==2.2.3
+altair==5.5.0
+# via
+#   anyio
+jsonschema-specifications>=2024.10.1
+#   anthropic
+#   jsonschema
+#   pydeck
+markupsafe==3.0.2
+#   agno
+six>=1.17.0
+# via agno
+#   build
+# via pydantic
+toml==0.10.2
+# via -r cookbook/examples/apps/tic_tac_toe/requirements.in
+#   google-genai
+tzdata==2025.1
+# via google-auth
+ollama==0.4.7
+# via agno
+# via altair
+#   anthropic
+rich==13.9.4
+#   ollama
+#   agno
+# via
+websockets==14.2
+pydantic-core>=2.27.2
+#   openai
+python-dateutil==2.9.0.post0
+setuptools==75.8.0
+# via
+# via -r cookbook/examples/apps/tic_tac_toe/requirements.in
+#   groq
+#   -r cookbook/examples/apps/tic_tac_toe/requirements.in
+#   referencing
+tqdm==4.67.1
+pygments==2.19.1
+# via
+#   anyio
+#   streamlit
+#   altair
+#   pandas
+#   openai
+#   streamlit
+# via
+#   pip-tools
+urllib3==2.3.0
+pathlib>=1.0.1
+requests>=2.32.3
+#   pydantic-settings
+# via agno
+#   altair
+#   groq
+#   streamlit
+#   pydantic-settings
+#   build
+#   anyio
+#   openai
+typer==0.15.1
+# via
+#   rsa
+httpcore>=1.0.7
+# via pandas
+idna==3.10
+#   agno
+#   groq
+# via jinja2
+annotated-types==0.7.0
+#   openai
+#   typer
+#   -r cookbook/examples/apps/tic_tac_toe/requirements.in
+numpy>=2.2.3
+#   httpx
+# via
+# via streamlit
+attrs==25.1.0
+# via
+# via
+gitdb==4.0.12
+tenacity==9.0.0
+# via typer
+smmap==5.0.2
+narwhals==1.28.0
+#   streamlit
+#   streamlit
+protobuf==5.29.3
+anthropic==0.47.1
+# via gitdb
+streamlit>=1.42.2
+#   openai
+pyasn1>=0.6.1
+#   anthropic
+tornado==6.4.2
+#   pydantic-core
+agno>=2.2.10
+# via -r cookbook/examples/apps/tic_tac_toe/requirements.in
+h11>=0.14.0
+# via -r cookbook/examples/apps/tic_tac_toe/requirements.in
+# via
+# via pip-tools
+google-auth==2.38.0
+packaging>=24.2
+#   groq
+# via streamlit
+# via -r cookbook/examples/apps/tic_tac_toe/requirements.in
+# via
+#   ollama
+# via google-genai
+# via gitpython
+# via streamlit
+#   pyasn1-modules
+# via -r cookbook/examples/apps/tic_tac_toe/requirements.in
+# via agno
+#   openai
+blinker==1.9.0
+# via rich
+build>=1.2.2.post1
+click==8.1.8
+gitpython==3.1.44
+# via
+# via
+pyarrow>=19.0.1
+# via pydantic
+#   httpx
+#   streamlit
+#   typer
+# via
+#   streamlit
+# via httpcore
+#   openai
+nest-asyncio>=1.6.0
+#   agno
+cachetools>=5.5.2
+# via streamlit
+#   jsonschema-specifications
+# via
+# via
+pyasn1-modules>=0.4.1
+#   anthropic
+# via google-genai
+# via
+wheel==0.45.1
+#   referencing
+rpds-py==0.23.1
+rsa==4.9
+# via streamlit
+# via
+python-multipart>=0.0.20
+# via jsonschema
+# via agno
+shellingham==1.5.4
+typing-extensions==4.12.2
+pydantic-settings>=2.8.0
+#   google-auth
+#   groq
+google-genai==1.3.0
+# via
+distro>=1.9.0
+# via altair
+# via
+pip-tools==7.4.1
+#   referencing
+# via
+pytz==2025.1
+pydantic==2.10.6
+certifi==2025.1.31
+jinja2==3.1.5
+#   google-genai
+mdurl>=0.1.2
+#   agno
+# via
+#   requests
+# via
+#   httpx
+referencing>=0.36.2
+jsonschema>=4.23.0
+#   anthropic
+# via -r cookbook/examples/apps/tic_tac_toe/requirements.in
+pillow>=11.1.0
+# via requests
+jiter>=0.8.2
+# via streamlit
+#   google-genai
+#   typer
+#   requests
+#   pydantic
+openai>=1.64.0
+# via agno
+# via markdown-it-py
+#   agno
+# via -r cookbook/examples/apps/tic_tac_toe/requirements.in
+#   httpcore
+# via google-auth
+# via pip-tools
+pydeck>=0.9.1
+pyyaml>=6.0.2

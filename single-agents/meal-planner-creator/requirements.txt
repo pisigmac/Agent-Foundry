@@ -1,0 +1,5 @@
+python-dotenv
+duckduckgo-search
+requests
+agno>=2.2.10
+streamlit

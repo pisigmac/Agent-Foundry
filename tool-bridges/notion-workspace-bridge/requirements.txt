@@ -1,0 +1,5 @@
+openai
+mcp
+agno==2.2.10
+sqlalchemy
+python-dotenv

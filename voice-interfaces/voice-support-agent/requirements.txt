@@ -1,0 +1,7 @@
+fastembed
+qdrant-client
+firecrawl-py
+python-dotenv
+openai-agents
+streamlit
+openai>=1.0.0

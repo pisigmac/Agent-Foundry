@@ -1,0 +1,3 @@
+anthropic>=0.18.0
+headroom-ai[all]>=0.2.14
+openai>=1.0.0

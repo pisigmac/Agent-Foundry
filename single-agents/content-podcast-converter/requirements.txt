@@ -1,0 +1,6 @@
+openai>=1.102.0
+firecrawl-py>=4.6.0
+agno>=2.2.10
+streamlit==1.40.2
+requests
+elevenlabs==1.0.0

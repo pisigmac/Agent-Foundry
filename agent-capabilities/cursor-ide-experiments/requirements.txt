@@ -1,0 +1,7 @@
+scrapegraphai
+streamlit-chat
+langchain-community
+streamlit
+crewai
+playwright
+ollama

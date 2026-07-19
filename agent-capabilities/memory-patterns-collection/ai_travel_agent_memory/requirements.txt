@@ -1,0 +1,3 @@
+mem0ai>=0.1.29
+streamlit
+openai

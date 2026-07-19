@@ -1,0 +1,5 @@
+cairosvg
+pillow
+streamlit
+chess>=1.11.1
+autogen==0.6.1

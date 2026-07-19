@@ -1,0 +1,10 @@
+pytz>=2023.4
+PyPDF2==3.0.1
+python-dateutil>=2.8.2  # for date parsing
+typing-extensions>=4.9.0
+streamlit>=1.40.2
+phidata
+requests==2.32.3
+black==24.1.1  # for code formatting
+streamlit-pdf-viewer>=0.0.19
+agno==2.2.10

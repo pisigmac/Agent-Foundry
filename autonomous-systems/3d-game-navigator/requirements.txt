@@ -1,0 +1,4 @@
+browser-use
+agno==2.2.10
+streamlit
+langchain-openai

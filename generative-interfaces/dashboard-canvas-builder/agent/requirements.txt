@@ -1,0 +1,8 @@
+tavily-python
+google-adk
+fastapi
+python-dotenv
+uvicorn[standard]
+pydantic
+google-genai
+ag-ui-adk

@@ -1,0 +1,6 @@
+google-search-results
+newspaper4k
+openai
+streamlit
+agno>=2.2.10
+lxml_html_clean
